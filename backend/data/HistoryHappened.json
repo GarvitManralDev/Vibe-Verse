@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which historical era would you visit?",
+    "options": [
+      { "text": "Ancient Rome or Greece", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Renaissance Europe", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "Roaring 1920s", "vibe_score": 9, "crazy_score": 7 },
+      { "text": "Pre-historic times", "vibe_score": 6, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "What historical artifact would you want to find?",
+    "options": [
+      { "text": "Ancient religious text", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "Lost treasure", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Extinct species specimen", "vibe_score": 7, "crazy_score": 8 },
+      { "text": "Alien technology", "vibe_score": 6, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "How would you have fared as a medieval peasant?",
+    "options": [
+      { "text": "Thrived despite hardship", "vibe_score": 8, "crazy_score": 7 },
+      {
+        "text": "Died of dysentery quickly",
+        "vibe_score": 5,
+        "crazy_score": 6
+      },
+      {
+        "text": "Risen to unexpected power",
+        "vibe_score": 7,
+        "crazy_score": 8
+      },
+      {
+        "text": "Started a peasant revolution",
+        "vibe_score": 6,
+        "crazy_score": 9
+      }
+    ]
+  },
+  {
+    "question": "Which historical disaster would you prevent?",
+    "options": [
+      { "text": "Major world war", "vibe_score": 9, "crazy_score": 7 },
+      { "text": "Natural catastrophe", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Technological accident", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "Epidemic/disease outbreak", "vibe_score": 8, "crazy_score": 6 }
+    ]
+  },
+  {
+    "question": "What historical figure are you most like?",
+    "options": [
+      { "text": "Revolutionary leader", "vibe_score": 7, "crazy_score": 8 },
+      { "text": "Scientific innovator", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Artistic visionary", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Everyday hero", "vibe_score": 9, "crazy_score": 5 }
+    ]
+  },
+  {
+    "question": "Which historical mystery would you solve?",
+    "options": [
+      {
+        "text": "Lost civilization location",
+        "vibe_score": 8,
+        "crazy_score": 7
+      },
+      { "text": "Famous unsolved crime", "vibe_score": 7, "crazy_score": 8 },
+      {
+        "text": "Ancient construction methods",
+        "vibe_score": 8,
+        "crazy_score": 6
+      },
+      { "text": "Vanished persons case", "vibe_score": 7, "crazy_score": 7 }
+    ]
+  },
+  {
+    "question": "What extinct animal would you bring back?",
+    "options": [
+      { "text": "Woolly mammoth", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Dodo bird", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "Saber-toothed tiger", "vibe_score": 6, "crazy_score": 9 },
+      { "text": "Dinosaur species", "vibe_score": 7, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "How would you communicate across time?",
+    "options": [
+      { "text": "Buried time capsule", "vibe_score": 8, "crazy_score": 6 },
+      {
+        "text": "Ancient monument messages",
+        "vibe_score": 7,
+        "crazy_score": 8
+      },
+      {
+        "text": "Book preserved for centuries",
+        "vibe_score": 8,
+        "crazy_score": 7
+      },
+      {
+        "text": "Digital message in blockchain",
+        "vibe_score": 7,
+        "crazy_score": 7
+      }
+    ]
+  },
+  {
+    "question": "Which historical battle strategy matches your approach?",
+    "options": [
+      {
+        "text": "Frontal overwhelming force",
+        "vibe_score": 6,
+        "crazy_score": 8
+      },
+      {
+        "text": "Strategic retreat when needed",
+        "vibe_score": 8,
+        "crazy_score": 5
+      },
+      {
+        "text": "Diplomatic alliance building",
+        "vibe_score": 9,
+        "crazy_score": 6
+      },
+      { "text": "Trojan horse deception", "vibe_score": 7, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "What lost knowledge would you recover?",
+    "options": [
+      {
+        "text": "Ancient medical treatments",
+        "vibe_score": 8,
+        "crazy_score": 7
+      },
+      {
+        "text": "Lost construction techniques",
+        "vibe_score": 7,
+        "crazy_score": 6
+      },
+      {
+        "text": "Destroyed library contents",
+        "vibe_score": 9,
+        "crazy_score": 7
+      },
+      {
+        "text": "Forgotten language/writing",
+        "vibe_score": 8,
+        "crazy_score": 8
+      }
+    ]
+  }
+]

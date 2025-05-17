@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What's your go-to karaoke song?",
+    "options": [
+      { "text": "Don't Stop Believin'", "vibe_score": 9, "crazy_score": 4 },
+      { "text": "Bohemian Rhapsody", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Sweet Caroline", "vibe_score": 8, "crazy_score": 3 },
+      { "text": "WAP", "vibe_score": 6, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "Which instrument would you learn to play?",
+    "options": [
+      { "text": "Guitar", "vibe_score": 8, "crazy_score": 5 },
+      { "text": "Piano", "vibe_score": 7, "crazy_score": 4 },
+      { "text": "Drums", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Theremin", "vibe_score": 6, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "What's your ideal concert experience?",
+    "options": [
+      {
+        "text": "Front row, getting crushed",
+        "vibe_score": 7,
+        "crazy_score": 8
+      },
+      { "text": "VIP section with drinks", "vibe_score": 9, "crazy_score": 6 },
+      { "text": "Lawn seats, picnic style", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "Backstage with the band", "vibe_score": 10, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "How do you discover new music?",
+    "options": [
+      { "text": "Spotify algorithms", "vibe_score": 7, "crazy_score": 3 },
+      { "text": "Friends' recommendations", "vibe_score": 8, "crazy_score": 5 },
+      { "text": "TikTok trends", "vibe_score": 6, "crazy_score": 7 },
+      {
+        "text": "Random vinyl at thrift stores",
+        "vibe_score": 8,
+        "crazy_score": 8
+      }
+    ]
+  },
+  {
+    "question": "Which decade had the best music?",
+    "options": [
+      { "text": "1960s-1970s", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "1980s", "vibe_score": 9, "crazy_score": 6 },
+      { "text": "1990s-2000s", "vibe_score": 8, "crazy_score": 5 },
+      {
+        "text": "Now - we're in the golden age",
+        "vibe_score": 7,
+        "crazy_score": 7
+      }
+    ]
+  },
+  {
+    "question": "What would your walk-up song be?",
+    "options": [
+      { "text": "Eye of the Tiger", "vibe_score": 9, "crazy_score": 5 },
+      { "text": "Welcome to the Jungle", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Started From the Bottom", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "Baby Shark", "vibe_score": 6, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "Which music festival would you attend?",
+    "options": [
+      { "text": "Coachella", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Burning Man", "vibe_score": 7, "crazy_score": 10 },
+      { "text": "Glastonbury", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Jazz & Heritage Festival", "vibe_score": 9, "crazy_score": 4 }
+    ]
+  },
+  {
+    "question": "How much would you pay for concert tickets?",
+    "options": [
+      { "text": "$50 max", "vibe_score": 6, "crazy_score": 3 },
+      { "text": "$200 for favorites", "vibe_score": 7, "crazy_score": 5 },
+      {
+        "text": "$500+ for bucket list artists",
+        "vibe_score": 8,
+        "crazy_score": 7
+      },
+      {
+        "text": "Whatever it takes - I'll sell organs",
+        "vibe_score": 6,
+        "crazy_score": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your music listening setup?",
+    "options": [
+      { "text": "Expensive headphones", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Car stereo cranked up", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "Home vinyl setup", "vibe_score": 9, "crazy_score": 7 },
+      { "text": "Phone speaker in public", "vibe_score": 3, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "Which band would you time travel to see live?",
+    "options": [
+      { "text": "The Beatles", "vibe_score": 9, "crazy_score": 5 },
+      { "text": "Queen", "vibe_score": 9, "crazy_score": 6 },
+      { "text": "Nirvana", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Mozart in concert", "vibe_score": 7, "crazy_score": 8 }
+    ]
+  }
+]

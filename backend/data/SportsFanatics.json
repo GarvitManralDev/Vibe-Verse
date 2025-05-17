@@ -1,0 +1,140 @@
+[
+  {
+    "question": "What sport would you go pro in if you could?",
+    "options": [
+      { "text": "Basketball", "vibe_score": 8, "crazy_score": 5 },
+      { "text": "Soccer/Football", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Golf", "vibe_score": 7, "crazy_score": 4 },
+      { "text": "Competitive eating", "vibe_score": 6, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "How do you act when your team is losing?",
+    "options": [
+      { "text": "Stoic acceptance", "vibe_score": 7, "crazy_score": 3 },
+      { "text": "Yell at the TV", "vibe_score": 5, "crazy_score": 7 },
+      { "text": "Stress eat everything", "vibe_score": 6, "crazy_score": 6 },
+      {
+        "text": "Turn it off - can't handle it",
+        "vibe_score": 4,
+        "crazy_score": 5
+      }
+    ]
+  },
+  {
+    "question": "What's your stadium food of choice?",
+    "options": [
+      {
+        "text": "Hot dog with all the fixings",
+        "vibe_score": 8,
+        "crazy_score": 4
+      },
+      { "text": "Nachos with extra cheese", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "Overpriced beer", "vibe_score": 7, "crazy_score": 6 },
+      {
+        "text": "Smuggled-in homemade sandwiches",
+        "vibe_score": 8,
+        "crazy_score": 8
+      }
+    ]
+  },
+  {
+    "question": "What sport would you add to the Olympics?",
+    "options": [
+      { "text": "Dodgeball", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Beer pong", "vibe_score": 7, "crazy_score": 8 },
+      { "text": "Video gaming", "vibe_score": 7, "crazy_score": 7 },
+      { "text": "Extreme ironing", "vibe_score": 6, "crazy_score": 10 }
+    ]
+  },
+  {
+    "question": "How far would you travel for a big game?",
+    "options": [
+      { "text": "Just the local stadium", "vibe_score": 7, "crazy_score": 3 },
+      { "text": "Cross-country road trip", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "International tournament", "vibe_score": 9, "crazy_score": 8 },
+      {
+        "text": "I have a passport just for away games",
+        "vibe_score": 8,
+        "crazy_score": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your fantasy sports strategy?",
+    "options": [
+      {
+        "text": "Pick favorite players only",
+        "vibe_score": 7,
+        "crazy_score": 5
+      },
+      { "text": "Deep stats analysis", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Copy expert picks online", "vibe_score": 6, "crazy_score": 4 },
+      {
+        "text": "Based on players' astrological signs",
+        "vibe_score": 5,
+        "crazy_score": 9
+      }
+    ]
+  },
+  {
+    "question": "How would you celebrate scoring a touchdown?",
+    "options": [
+      { "text": "Classic spike", "vibe_score": 7, "crazy_score": 4 },
+      { "text": "Choreographed dance", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Backflip", "vibe_score": 9, "crazy_score": 8 },
+      {
+        "text": "Hand ball politely to referee",
+        "vibe_score": 6,
+        "crazy_score": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your sports superstition?",
+    "options": [
+      {
+        "text": "Lucky jersey never washed",
+        "vibe_score": 6,
+        "crazy_score": 7
+      },
+      {
+        "text": "Same meal before every game",
+        "vibe_score": 7,
+        "crazy_score": 6
+      },
+      {
+        "text": "Specific seat on the couch",
+        "vibe_score": 7,
+        "crazy_score": 5
+      },
+      {
+        "text": "Elaborate ritual involving candles",
+        "vibe_score": 5,
+        "crazy_score": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to playing pickup sports?",
+    "options": [
+      { "text": "Casual fun, no pressure", "vibe_score": 9, "crazy_score": 4 },
+      {
+        "text": "Secretly competitive but polite",
+        "vibe_score": 7,
+        "crazy_score": 6
+      },
+      { "text": "Win at all costs", "vibe_score": 5, "crazy_score": 8 },
+      { "text": "Athletic but clumsy chaos", "vibe_score": 8, "crazy_score": 7 }
+    ]
+  },
+  {
+    "question": "What would be your athlete nickname?",
+    "options": [
+      { "text": "The Natural", "vibe_score": 8, "crazy_score": 5 },
+      { "text": "Lightning", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "The Professor", "vibe_score": 7, "crazy_score": 4 },
+      { "text": "Danger Noodle", "vibe_score": 6, "crazy_score": 9 }
+    ]
+  }
+]

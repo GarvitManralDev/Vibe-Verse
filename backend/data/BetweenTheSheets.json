@@ -1,0 +1,5002 @@
+[
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal romantic evening?",
+    "options": [
+      {
+        "option": "Candlelit dinner at home",
+        "vibeScore": 9,
+        "crazyScore": 5
+      },
+      {
+        "option": "Adventure activity together",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Netflix and actually chill",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Spontaneous hotel room",
+        "vibeScore": 8,
+        "crazyScore": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to bedroom lighting?",
+    "options": [
+      {
+        "option": "Complete darkness",
+        "vibeScore": 6,
+        "crazyScore": 5
+      },
+      {
+        "option": "Soft romantic lighting",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Full brightness",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Disco ball and lasers",
+        "vibeScore": 8,
+        "crazyScore": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your biggest turn-on?",
+    "options": [
+      {
+        "option": "Intellectual conversation",
+        "vibeScore": 8,
+        "crazyScore": 4
+      },
+      {
+        "option": "Physical touch/massage",
+        "vibeScore": 9,
+        "crazyScore": 6
+      },
+      {
+        "option": "Emotional vulnerability",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Unexpected spontaneity",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your ideal date night frequency?",
+    "options": [
+      {
+        "option": "Weekly scheduled time",
+        "vibeScore": 8,
+        "crazyScore": 5
+      },
+      {
+        "option": "Spontaneous whenever possible",
+        "vibeScore": 9,
+        "crazyScore": 7
+      },
+      {
+        "option": "Monthly special occasion",
+        "vibeScore": 7,
+        "crazyScore": 4
+      },
+      {
+        "option": "Daily connection time",
+        "vibeScore": 9,
+        "crazyScore": 8
+      }
+    ]
+  },
+  {
+    "question": "Where's the wildest place you'd consider?",
+    "options": [
+      {
+        "option": "Private beach at night",
+        "vibeScore": 8,
+        "crazyScore": 7
+      },
+      {
+        "option": "Airplane bathroom",
+        "vibeScore": 6,
+        "crazyScore": 9
+      },
+      {
+        "option": "Hiking trail overlook",
+        "vibeScore": 7,
+        "crazyScore": 8
+      },
+      {
+        "option": "Bedroom only, thanks",
+        "vibeScore": 7,
+        "crazyScore": 3
+      }
+    ]
+  }
+]

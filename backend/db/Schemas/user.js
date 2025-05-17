@@ -12,16 +12,12 @@ const userSchema = new mongoose.Schema(
       type: String,
       required: true,
     },
-
     vibeScore: {
       type: Number,
       default: 0,
+      index: true, // Add index here
     },
     crazinessLevel: {
-      type: Number,
-      default: 0,
-    },
-    topScorerStreak: {
       type: Number,
       default: 0,
     },
@@ -29,43 +25,29 @@ const userSchema = new mongoose.Schema(
       type: Number,
       default: 0,
     },
-    avatar: {
-      type: String,
-      default: "",
-    },
-
     contestTypes: {
-      // stores contest name and participation count
       type: Map,
       of: Number,
       default: {},
     },
-
-    insta: {
+    topContestTypes: {
+      type: [String],
+      default: [],
+    },
+    avatar: {
       type: String,
       default: "",
     },
-    snap: {
-      type: String,
-      default: "",
-    },
-    tinder: {
-      type: String,
-      default: "",
-    },
-    hinge: {
-      type: String,
-      default: "",
-    },
-    bumble: {
-      type: String,
-      default: "",
-    },
+    insta: { type: String, default: "" },
+    snap: { type: String, default: "" },
+    tinder: { type: String, default: "" },
+    hinge: { type: String, default: "" },
+    bumble: { type: String, default: "" },
   },
-  {
-    timestamps: true,
-  }
+  { timestamps: true }
 );
+
+userSchema.index({ vibeScore: -1 });
 
 const User = mongoose.model("User", userSchema);
 

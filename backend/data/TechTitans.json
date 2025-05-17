@@ -1,0 +1,140 @@
+[
+  {
+    "question": "What's your phone charging strategy?",
+    "options": [
+      { "text": "Always above 50%", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Overnight while sleeping", "vibe_score": 7, "crazy_score": 4 },
+      {
+        "text": "Only when completely dead",
+        "vibe_score": 5,
+        "crazy_score": 7
+      },
+      {
+        "text": "Multiple chargers everywhere",
+        "vibe_score": 7,
+        "crazy_score": 8
+      }
+    ]
+  },
+  {
+    "question": "How do you organize your apps?",
+    "options": [
+      { "text": "Color-coded folders", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Frequency of use", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "Complete chaos", "vibe_score": 5, "crazy_score": 8 },
+      { "text": "One screen, minimalist", "vibe_score": 7, "crazy_score": 6 }
+    ]
+  },
+  {
+    "question": "What's your password strategy?",
+    "options": [
+      { "text": "Same password everywhere", "vibe_score": 4, "crazy_score": 7 },
+      {
+        "text": "Password manager with unique ones",
+        "vibe_score": 9,
+        "crazy_score": 5
+      },
+      {
+        "text": "Written in secret notebook",
+        "vibe_score": 6,
+        "crazy_score": 6
+      },
+      {
+        "text": "Complex system only you understand",
+        "vibe_score": 7,
+        "crazy_score": 8
+      }
+    ]
+  },
+  {
+    "question": "How many browser tabs do you keep open?",
+    "options": [
+      { "text": "Just what I'm using now", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "10-20 regular tabs", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "50+ I might need someday", "vibe_score": 5, "crazy_score": 8 },
+      { "text": ":) in the address bar", "vibe_score": 4, "crazy_score": 10 }
+    ]
+  },
+  {
+    "question": "What's your video call setup?",
+    "options": [
+      {
+        "text": "Professional lighting and mic",
+        "vibe_score": 9,
+        "crazy_score": 7
+      },
+      {
+        "text": "Laptop camera, decent spot",
+        "vibe_score": 7,
+        "crazy_score": 4
+      },
+      {
+        "text": "Phone propped on something",
+        "vibe_score": 6,
+        "crazy_score": 6
+      },
+      {
+        "text": "Camera off whenever possible",
+        "vibe_score": 5,
+        "crazy_score": 5
+      }
+    ]
+  },
+  {
+    "question": "How do you feel about software updates?",
+    "options": [
+      { "text": "Immediate installation", "vibe_score": 8, "crazy_score": 5 },
+      { "text": "Schedule for overnight", "vibe_score": 7, "crazy_score": 4 },
+      { "text": "Ignore until forced", "vibe_score": 5, "crazy_score": 7 },
+      {
+        "text": "Disable all updates forever",
+        "vibe_score": 4,
+        "crazy_score": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your tech troubleshooting approach?",
+    "options": [
+      { "text": "Systematic testing", "vibe_score": 8, "crazy_score": 5 },
+      { "text": "Google the error message", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "Ask tech-savvy friend", "vibe_score": 6, "crazy_score": 4 },
+      {
+        "text": "Percussive maintenance (hit it)",
+        "vibe_score": 5,
+        "crazy_score": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your stance on AI?",
+    "options": [
+      { "text": "Exciting future tools", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Scary, potential dangers", "vibe_score": 6, "crazy_score": 7 },
+      {
+        "text": "Already using for everything",
+        "vibe_score": 7,
+        "crazy_score": 8
+      },
+      { "text": "Skynet is inevitable", "vibe_score": 5, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "How do you feel about social media?",
+    "options": [
+      { "text": "Essential communication", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "Necessary evil", "vibe_score": 6, "crazy_score": 5 },
+      { "text": "Deleted all accounts", "vibe_score": 7, "crazy_score": 7 },
+      { "text": "Lurker, never post", "vibe_score": 6, "crazy_score": 4 }
+    ]
+  },
+  {
+    "question": "What's your smart home setup?",
+    "options": [
+      { "text": "Everything automated", "vibe_score": 8, "crazy_score": 8 },
+      { "text": "Few key devices", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "Just a smart speaker", "vibe_score": 6, "crazy_score": 4 },
+      { "text": "Tin foil blocking signals", "vibe_score": 4, "crazy_score": 9 }
+    ]
+  }
+]

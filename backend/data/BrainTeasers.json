@@ -1,0 +1,148 @@
+[
+  {
+    "question": "You find a USB drive on the ground. What do you do?",
+    "options": [
+      {
+        "text": "Turn it in to lost and found",
+        "vibe_score": 9,
+        "crazy_score": 4
+      },
+      {
+        "text": "Plug it in to find the owner",
+        "vibe_score": 6,
+        "crazy_score": 8
+      },
+      { "text": "Ignore it completely", "vibe_score": 7, "crazy_score": 5 },
+      {
+        "text": "Format it for personal use",
+        "vibe_score": 5,
+        "crazy_score": 7
+      }
+    ]
+  },
+  {
+    "question": "What would you do with a time machine?",
+    "options": [
+      { "text": "Observe historic events", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Fix personal mistakes", "vibe_score": 7, "crazy_score": 7 },
+      { "text": "Future lottery numbers", "vibe_score": 6, "crazy_score": 8 },
+      { "text": "Create paradoxes for fun", "vibe_score": 5, "crazy_score": 10 }
+    ]
+  },
+  {
+    "question": "How would you survive a zombie apocalypse?",
+    "options": [
+      {
+        "text": "Well-stocked remote cabin",
+        "vibe_score": 8,
+        "crazy_score": 6
+      },
+      { "text": "Join survivor community", "vibe_score": 7, "crazy_score": 5 },
+      {
+        "text": "Mobile RV constantly moving",
+        "vibe_score": 7,
+        "crazy_score": 7
+      },
+      { "text": "Pretend to be zombie", "vibe_score": 6, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "What would you bring to a deserted island?",
+    "options": [
+      { "text": "Practical survival gear", "vibe_score": 8, "crazy_score": 5 },
+      { "text": "Books for entertainment", "vibe_score": 7, "crazy_score": 4 },
+      { "text": "Satellite phone", "vibe_score": 9, "crazy_score": 6 },
+      { "text": "Volleyball for company", "vibe_score": 7, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "If animals could talk, which would be most interesting?",
+    "options": [
+      { "text": "Dogs - loyal companions", "vibe_score": 9, "crazy_score": 5 },
+      {
+        "text": "Cats - judging everything",
+        "vibe_score": 8,
+        "crazy_score": 6
+      },
+      {
+        "text": "Octopuses - alien intelligence",
+        "vibe_score": 8,
+        "crazy_score": 8
+      },
+      {
+        "text": "Squirrels - paranoid chaos",
+        "vibe_score": 7,
+        "crazy_score": 9
+      }
+    ]
+  },
+  {
+    "question": "How would you spend lottery winnings?",
+    "options": [
+      { "text": "Responsible investments", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "World travel adventures", "vibe_score": 9, "crazy_score": 7 },
+      {
+        "text": "Secret underground bunker",
+        "vibe_score": 6,
+        "crazy_score": 9
+      },
+      {
+        "text": "Everyday life, tell no one",
+        "vibe_score": 7,
+        "crazy_score": 6
+      }
+    ]
+  },
+  {
+    "question": "Which superpower would you choose?",
+    "options": [
+      { "text": "Flight - soaring freedom", "vibe_score": 9, "crazy_score": 7 },
+      {
+        "text": "Invisibility - undetected",
+        "vibe_score": 7,
+        "crazy_score": 8
+      },
+      {
+        "text": "Mind reading - knowing truth",
+        "vibe_score": 6,
+        "crazy_score": 8
+      },
+      {
+        "text": "Time control - manipulation",
+        "vibe_score": 8,
+        "crazy_score": 9
+      }
+    ]
+  },
+  {
+    "question": "If you could master any skill instantly?",
+    "options": [
+      { "text": "Musical instrument", "vibe_score": 8, "crazy_score": 5 },
+      { "text": "Foreign languages", "vibe_score": 9, "crazy_score": 6 },
+      { "text": "Professional-level sport", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Perfect memory recall", "vibe_score": 7, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "How would you fake your own death?",
+    "options": [
+      { "text": "Boating accident", "vibe_score": 5, "crazy_score": 8 },
+      {
+        "text": "New identity, different country",
+        "vibe_score": 6,
+        "crazy_score": 9
+      },
+      { "text": "Stage elaborate scheme", "vibe_score": 5, "crazy_score": 10 },
+      { "text": "Would never consider it", "vibe_score": 8, "crazy_score": 3 }
+    ]
+  },
+  {
+    "question": "Which historical figure would you have dinner with?",
+    "options": [
+      { "text": "Einstein or scientist", "vibe_score": 8, "crazy_score": 5 },
+      { "text": "Ancient philosopher", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "Artistic genius", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Notorious villain", "vibe_score": 5, "crazy_score": 9 }
+    ]
+  }
+]

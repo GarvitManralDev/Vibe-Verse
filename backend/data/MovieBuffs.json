@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What's your movie theater snack strategy?",
+    "options": [
+      { "text": "Classic popcorn and soda", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "Smuggled full meal", "vibe_score": 7, "crazy_score": 8 },
+      { "text": "Candy overload", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "Nothing - complete focus", "vibe_score": 6, "crazy_score": 5 }
+    ]
+  },
+  {
+    "question": "What's your stance on talking during movies?",
+    "options": [
+      { "text": "Silent respect always", "vibe_score": 9, "crazy_score": 3 },
+      { "text": "Whispered commentary", "vibe_score": 6, "crazy_score": 6 },
+      {
+        "text": "Full discussion, live reactions",
+        "vibe_score": 5,
+        "crazy_score": 8
+      },
+      {
+        "text": "Only to predict plot twists",
+        "vibe_score": 5,
+        "crazy_score": 7
+      }
+    ]
+  },
+  {
+    "question": "How do you choose what to watch?",
+    "options": [
+      {
+        "text": "Rotten Tomatoes above 90%",
+        "vibe_score": 7,
+        "crazy_score": 5
+      },
+      { "text": "Whatever's trending", "vibe_score": 6, "crazy_score": 4 },
+      {
+        "text": "Obscure director retrospectives",
+        "vibe_score": 8,
+        "crazy_score": 7
+      },
+      {
+        "text": "So bad it's good cult classics",
+        "vibe_score": 8,
+        "crazy_score": 8
+      }
+    ]
+  },
+  {
+    "question": "What movie genre is your go-to?",
+    "options": [
+      { "text": "Horror/Thriller", "vibe_score": 7, "crazy_score": 7 },
+      { "text": "Romantic Comedy", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "Sci-Fi/Fantasy", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Documentaries only", "vibe_score": 7, "crazy_score": 5 }
+    ]
+  },
+  {
+    "question": "What's your home movie setup?",
+    "options": [
+      { "text": "Basic TV, whatever works", "vibe_score": 6, "crazy_score": 3 },
+      {
+        "text": "Full surround sound theater",
+        "vibe_score": 9,
+        "crazy_score": 7
+      },
+      { "text": "Projector on blank wall", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Phone screen in bed", "vibe_score": 5, "crazy_score": 5 }
+    ]
+  },
+  {
+    "question": "How often do you rewatch favorites?",
+    "options": [
+      {
+        "text": "Never - too many new films",
+        "vibe_score": 6,
+        "crazy_score": 5
+      },
+      { "text": "Yearly traditions", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "Monthly comfort watches", "vibe_score": 7, "crazy_score": 6 },
+      {
+        "text": "Same movie on repeat for weeks",
+        "vibe_score": 6,
+        "crazy_score": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your stance on book-to-movie adaptations?",
+    "options": [
+      { "text": "Book is always better", "vibe_score": 6, "crazy_score": 4 },
+      {
+        "text": "Separate but equal art forms",
+        "vibe_score": 8,
+        "crazy_score": 5
+      },
+      {
+        "text": "Movies improve on boring books",
+        "vibe_score": 6,
+        "crazy_score": 7
+      },
+      { "text": "Never read, only watch", "vibe_score": 5, "crazy_score": 6 }
+    ]
+  },
+  {
+    "question": "What film would you erase to watch again fresh?",
+    "options": [
+      { "text": "The Sixth Sense", "vibe_score": 8, "crazy_score": 5 },
+      {
+        "text": "The Lord of the Rings trilogy",
+        "vibe_score": 9,
+        "crazy_score": 6
+      },
+      { "text": "Fight Club", "vibe_score": 7, "crazy_score": 7 },
+      { "text": "The Notebook", "vibe_score": 7, "crazy_score": 4 }
+    ]
+  },
+  {
+    "question": "How do you handle movie spoilers?",
+    "options": [
+      {
+        "text": "Avoid all cost, media blackout",
+        "vibe_score": 7,
+        "crazy_score": 7
+      },
+      {
+        "text": "Don't care, enjoy regardless",
+        "vibe_score": 8,
+        "crazy_score": 5
+      },
+      { "text": "Actively seek them out", "vibe_score": 5, "crazy_score": 8 },
+      {
+        "text": "Read plot on Wikipedia first",
+        "vibe_score": 6,
+        "crazy_score": 6
+      }
+    ]
+  },
+  {
+    "question": "What's your movie marathon limit?",
+    "options": [
+      { "text": "2 hours max, then break", "vibe_score": 7, "crazy_score": 3 },
+      { "text": "Trilogy in one sitting", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "24-hour theme marathon", "vibe_score": 7, "crazy_score": 8 },
+      {
+        "text": "Until physically unable to watch",
+        "vibe_score": 6,
+        "crazy_score": 9
+      }
+    ]
+  }
+]

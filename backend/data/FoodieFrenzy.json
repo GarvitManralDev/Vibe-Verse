@@ -1,0 +1,184 @@
+[
+  {
+    "question": "What's your spice tolerance?",
+    "options": [
+      { "text": "Mild salsa is too spicy", "vibe_score": 6, "crazy_score": 3 },
+      {
+        "text": "Medium, but complain a bit",
+        "vibe_score": 7,
+        "crazy_score": 5
+      },
+      { "text": "Ghost peppers are fine", "vibe_score": 8, "crazy_score": 8 },
+      { "text": "Pain is flavor", "vibe_score": 6, "crazy_score": 10 }
+    ]
+  },
+  {
+    "question": "How do you feel about food photos?",
+    "options": [
+      { "text": "Every meal documented", "vibe_score": 7, "crazy_score": 7 },
+      { "text": "Special occasions only", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "Never - eat immediately", "vibe_score": 7, "crazy_score": 5 },
+      {
+        "text": "Full photoshoot with lighting",
+        "vibe_score": 6,
+        "crazy_score": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your cooking specialty?",
+    "options": [
+      {
+        "text": "Gourmet multi-course meal",
+        "vibe_score": 9,
+        "crazy_score": 7
+      },
+      { "text": "One-pot comfort food", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "Toast and cereal", "vibe_score": 6, "crazy_score": 5 },
+      {
+        "text": "Experimental fusion cuisine",
+        "vibe_score": 7,
+        "crazy_score": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to restaurant menus?",
+    "options": [
+      { "text": "Same order every time", "vibe_score": 7, "crazy_score": 3 },
+      {
+        "text": "Ask server for recommendations",
+        "vibe_score": 8,
+        "crazy_score": 5
+      },
+      {
+        "text": "Most unusual item available",
+        "vibe_score": 7,
+        "crazy_score": 8
+      },
+      {
+        "text": "Hours of online research first",
+        "vibe_score": 6,
+        "crazy_score": 7
+      }
+    ]
+  },
+  {
+    "question": "What's your food budget splurge?",
+    "options": [
+      {
+        "text": "High-end restaurant experience",
+        "vibe_score": 9,
+        "crazy_score": 7
+      },
+      {
+        "text": "Quality ingredients to cook",
+        "vibe_score": 8,
+        "crazy_score": 5
+      },
+      {
+        "text": "International food adventure",
+        "vibe_score": 9,
+        "crazy_score": 8
+      },
+      {
+        "text": "Fancy coffee every single day",
+        "vibe_score": 7,
+        "crazy_score": 6
+      }
+    ]
+  },
+  {
+    "question": "What's your stance on pineapple on pizza?",
+    "options": [
+      { "text": "Delicious combination", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "Absolute abomination", "vibe_score": 6, "crazy_score": 7 },
+      { "text": "Neutral, eat whatever", "vibe_score": 8, "crazy_score": 4 },
+      {
+        "text": "Add more controversial toppings",
+        "vibe_score": 6,
+        "crazy_score": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your ice cream approach?",
+    "options": [
+      {
+        "text": "Classic vanilla, no toppings",
+        "vibe_score": 7,
+        "crazy_score": 3
+      },
+      {
+        "text": "Loaded sundae with everything",
+        "vibe_score": 8,
+        "crazy_score": 7
+      },
+      { "text": "Unusual flavors only", "vibe_score": 7, "crazy_score": 8 },
+      {
+        "text": "Eating directly from container",
+        "vibe_score": 6,
+        "crazy_score": 6
+      }
+    ]
+  },
+  {
+    "question": "How do you handle leftovers?",
+    "options": [
+      {
+        "text": "Carefully stored and labeled",
+        "vibe_score": 8,
+        "crazy_score": 4
+      },
+      {
+        "text": "Forgotten in fridge for weeks",
+        "vibe_score": 5,
+        "crazy_score": 6
+      },
+      {
+        "text": "Creative next-day transformations",
+        "vibe_score": 9,
+        "crazy_score": 7
+      },
+      {
+        "text": "What leftovers? Eat it all now",
+        "vibe_score": 7,
+        "crazy_score": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your grocery shopping style?",
+    "options": [
+      {
+        "text": "Detailed list, organized by aisle",
+        "vibe_score": 8,
+        "crazy_score": 4
+      },
+      { "text": "Wander and impulse buy", "vibe_score": 6, "crazy_score": 7 },
+      { "text": "Online delivery only", "vibe_score": 7, "crazy_score": 5 },
+      {
+        "text": "Shop hungry, buy everything",
+        "vibe_score": 5,
+        "crazy_score": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your weird food combination?",
+    "options": [
+      {
+        "text": "Fries dipped in milkshake",
+        "vibe_score": 7,
+        "crazy_score": 6
+      },
+      {
+        "text": "Peanut butter & pickle sandwich",
+        "vibe_score": 5,
+        "crazy_score": 8
+      },
+      { "text": "Ranch on everything", "vibe_score": 6, "crazy_score": 7 },
+      { "text": "Cereal with orange juice", "vibe_score": 4, "crazy_score": 9 }
+    ]
+  }
+]

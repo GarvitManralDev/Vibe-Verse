@@ -1,0 +1,136 @@
+[
+  {
+    "question": "How do you discover new shows?",
+    "options": [
+      { "text": "Friends' recommendations", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "Algorithm suggestions", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "Critics' top picks", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "Random scrolling at 2am", "vibe_score": 6, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "What's your binge-watching style?",
+    "options": [
+      { "text": "One episode daily", "vibe_score": 7, "crazy_score": 4 },
+      {
+        "text": "Entire season in one sitting",
+        "vibe_score": 6,
+        "crazy_score": 8
+      },
+      {
+        "text": "Multiple shows simultaneously",
+        "vibe_score": 7,
+        "crazy_score": 7
+      },
+      { "text": "Watch finales first", "vibe_score": 5, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "How do you feel about celebrity gossip?",
+    "options": [
+      { "text": "Secret guilty pleasure", "vibe_score": 6, "crazy_score": 6 },
+      { "text": "Morally opposed", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "Only major scandals", "vibe_score": 6, "crazy_score": 4 },
+      { "text": "Expert on all celebrities", "vibe_score": 5, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "What's your meme sharing strategy?",
+    "options": [
+      {
+        "text": "Carefully curated selections",
+        "vibe_score": 8,
+        "crazy_score": 6
+      },
+      { "text": "Spam friends constantly", "vibe_score": 6, "crazy_score": 8 },
+      { "text": "Create original content", "vibe_score": 9, "crazy_score": 7 },
+      { "text": "What's a meme?", "vibe_score": 5, "crazy_score": 3 }
+    ]
+  },
+  {
+    "question": "How quickly do you adopt trends?",
+    "options": [
+      {
+        "text": "Early adopter, trend setter",
+        "vibe_score": 8,
+        "crazy_score": 7
+      },
+      { "text": "Wait until mainstream", "vibe_score": 7, "crazy_score": 4 },
+      {
+        "text": "Actively resist all trends",
+        "vibe_score": 6,
+        "crazy_score": 6
+      },
+      { "text": "Still doing Gangnam Style", "vibe_score": 5, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "What's your approach to viral challenges?",
+    "options": [
+      {
+        "text": "Film and post immediately",
+        "vibe_score": 7,
+        "crazy_score": 8
+      },
+      { "text": "Watch others only", "vibe_score": 6, "crazy_score": 4 },
+      {
+        "text": "Do privately, never share",
+        "vibe_score": 7,
+        "crazy_score": 6
+      },
+      {
+        "text": "Create dangerous variations",
+        "vibe_score": 4,
+        "crazy_score": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your emoji usage?",
+    "options": [
+      { "text": "Strategic, occasional", "vibe_score": 7, "crazy_score": 4 },
+      { "text": "Every 🫠 other 🔥 word 💯", "vibe_score": 6, "crazy_score": 8 },
+      { "text": "Only ironically", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "Full emoji stories", "vibe_score": 8, "crazy_score": 7 }
+    ]
+  },
+  {
+    "question": "How do you handle spoilers?",
+    "options": [
+      { "text": "Avoid at all costs", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "Actively seek them out", "vibe_score": 6, "crazy_score": 8 },
+      {
+        "text": "Accidentally spoil others",
+        "vibe_score": 4,
+        "crazy_score": 7
+      },
+      {
+        "text": "Wait years to watch anyway",
+        "vibe_score": 7,
+        "crazy_score": 5
+      }
+    ]
+  },
+  {
+    "question": "What's your fan behavior?",
+    "options": [
+      { "text": "Casual enjoyment", "vibe_score": 8, "crazy_score": 3 },
+      { "text": "Deep lore knowledge", "vibe_score": 7, "crazy_score": 6 },
+      { "text": "Cosplay and conventions", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Fanfiction writer", "vibe_score": 7, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "How do you discover music?",
+    "options": [
+      { "text": "Mainstream radio", "vibe_score": 6, "crazy_score": 3 },
+      {
+        "text": "Indie blogs and playlists",
+        "vibe_score": 8,
+        "crazy_score": 6
+      },
+      { "text": "TikTok trending sounds", "vibe_score": 7, "crazy_score": 7 },
+      { "text": "Only 80s hits forever", "vibe_score": 7, "crazy_score": 5 }
+    ]
+  }
+]

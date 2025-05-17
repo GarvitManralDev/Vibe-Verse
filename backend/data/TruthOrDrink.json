@@ -1,0 +1,124 @@
+[
+  {
+    "question": "What’s the biggest lie you’ve told to get out of trouble?",
+    "options": [
+      { "text": "Blamed someone else", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Made up an emergency", "vibe_score": 7, "crazy_score": 7 },
+      { "text": "Denied it completely", "vibe_score": 6, "crazy_score": 8 },
+      { "text": "Confessed immediately", "vibe_score": 5, "crazy_score": 4 }
+    ]
+  },
+  {
+    "question": "Have you ever had a crush on someone you shouldn’t have?",
+    "options": [
+      { "text": "Yes, and acted on it", "vibe_score": 7, "crazy_score": 8 },
+      { "text": "Yes, but kept it secret", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "No, never", "vibe_score": 9, "crazy_score": 3 },
+      { "text": "Maybe, can’t remember", "vibe_score": 6, "crazy_score": 7 }
+    ]
+  },
+  {
+    "question": "What’s the most embarrassing thing that’s happened on a date?",
+    "options": [
+      { "text": "Spilled food or drink", "vibe_score": 8, "crazy_score": 5 },
+      { "text": "Forgot their name", "vibe_score": 7, "crazy_score": 7 },
+      {
+        "text": "Accidentally insulted them",
+        "vibe_score": 6,
+        "crazy_score": 8
+      },
+      { "text": "Walked out early", "vibe_score": 5, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "What’s a secret you’ve never told anyone?",
+    "options": [
+      { "text": "Something funny", "vibe_score": 8, "crazy_score": 5 },
+      { "text": "Something embarrassing", "vibe_score": 7, "crazy_score": 7 },
+      { "text": "Something dark", "vibe_score": 6, "crazy_score": 9 },
+      { "text": "I don’t keep secrets", "vibe_score": 9, "crazy_score": 3 }
+    ]
+  },
+  {
+    "question": "What’s your wildest party confession?",
+    "options": [
+      {
+        "text": "Hooked up with a stranger",
+        "vibe_score": 7,
+        "crazy_score": 8
+      },
+      { "text": "Got kicked out early", "vibe_score": 6, "crazy_score": 7 },
+      { "text": "Danced on a table", "vibe_score": 8, "crazy_score": 6 },
+      {
+        "text": "Passed out and don’t remember",
+        "vibe_score": 5,
+        "crazy_score": 9
+      }
+    ]
+  },
+  {
+    "question": "What’s the worst thing you’ve done while drunk?",
+    "options": [
+      { "text": "Sent a regrettable text", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Broke something valuable", "vibe_score": 7, "crazy_score": 8 },
+      { "text": "Got into an argument", "vibe_score": 6, "crazy_score": 7 },
+      { "text": "Did something illegal", "vibe_score": 5, "crazy_score": 10 }
+    ]
+  },
+  {
+    "question": "Have you ever lied to protect a friend?",
+    "options": [
+      { "text": "Yes, without hesitation", "vibe_score": 9, "crazy_score": 4 },
+      { "text": "Only once", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "No, always honest", "vibe_score": 6, "crazy_score": 3 },
+      { "text": "Not sure", "vibe_score": 5, "crazy_score": 6 }
+    ]
+  },
+  {
+    "question": "What’s the most outrageous thing you’ve done for love?",
+    "options": [
+      {
+        "text": "Chased someone across town",
+        "vibe_score": 7,
+        "crazy_score": 8
+      },
+      { "text": "Dramatic confession", "vibe_score": 8, "crazy_score": 7 },
+      {
+        "text": "Broke rules or boundaries",
+        "vibe_score": 6,
+        "crazy_score": 9
+      },
+      { "text": "Stayed silent and waited", "vibe_score": 5, "crazy_score": 4 }
+    ]
+  },
+  {
+    "question": "What’s your biggest regret from a party night?",
+    "options": [
+      {
+        "text": "Hurting someone’s feelings",
+        "vibe_score": 8,
+        "crazy_score": 6
+      },
+      { "text": "Losing valuables", "vibe_score": 7, "crazy_score": 7 },
+      { "text": "Getting into trouble", "vibe_score": 6, "crazy_score": 8 },
+      { "text": "Nothing, no regrets", "vibe_score": 9, "crazy_score": 3 }
+    ]
+  },
+  {
+    "question": "What’s a bold truth you’ve never admitted out loud?",
+    "options": [
+      { "text": "I’m afraid of failure", "vibe_score": 8, "crazy_score": 4 },
+      {
+        "text": "I pretend to be confident",
+        "vibe_score": 7,
+        "crazy_score": 5
+      },
+      {
+        "text": "I’ve done things I’m not proud of",
+        "vibe_score": 6,
+        "crazy_score": 8
+      },
+      { "text": "I keep my feelings hidden", "vibe_score": 9, "crazy_score": 6 }
+    ]
+  }
+]

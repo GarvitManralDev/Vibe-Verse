@@ -1,0 +1,176 @@
+[
+  {
+    "question": "What's your ideal Saturday morning?",
+    "options": [
+      {
+        "text": "Early hike to see sunrise",
+        "vibe_score": 9,
+        "crazy_score": 7
+      },
+      { "text": "Sleep in until noon", "vibe_score": 7, "crazy_score": 5 },
+      {
+        "text": "Farmer's market and coffee",
+        "vibe_score": 8,
+        "crazy_score": 4
+      },
+      {
+        "text": "Still out from Friday night",
+        "vibe_score": 6,
+        "crazy_score": 9
+      }
+    ]
+  },
+  {
+    "question": "How do you approach yard work?",
+    "options": [
+      {
+        "text": "Meticulous weekly maintenance",
+        "vibe_score": 7,
+        "crazy_score": 5
+      },
+      { "text": "Wait until it's a jungle", "vibe_score": 5, "crazy_score": 7 },
+      { "text": "Hire professionals", "vibe_score": 8, "crazy_score": 6 },
+      {
+        "text": "Convert to rock garden/AstroTurf",
+        "vibe_score": 7,
+        "crazy_score": 8
+      }
+    ]
+  },
+  {
+    "question": "What's your DIY project style?",
+    "options": [
+      {
+        "text": "Follow instructions exactly",
+        "vibe_score": 7,
+        "crazy_score": 3
+      },
+      { "text": "Wing it completely", "vibe_score": 6, "crazy_score": 8 },
+      {
+        "text": "YouTube tutorials on 2x speed",
+        "vibe_score": 7,
+        "crazy_score": 6
+      },
+      {
+        "text": "Start 10 projects, finish none",
+        "vibe_score": 5,
+        "crazy_score": 7
+      }
+    ]
+  },
+  {
+    "question": "What's your camping style?",
+    "options": [
+      { "text": "Glamping with amenities", "vibe_score": 8, "crazy_score": 5 },
+      { "text": "Minimal backpacking", "vibe_score": 7, "crazy_score": 8 },
+      { "text": "RV with satellite TV", "vibe_score": 7, "crazy_score": 4 },
+      {
+        "text": "Survival mode, drinking own urine",
+        "vibe_score": 4,
+        "crazy_score": 10
+      }
+    ]
+  },
+  {
+    "question": "What's your approach to weekend cooking?",
+    "options": [
+      {
+        "text": "Elaborate multicourse meals",
+        "vibe_score": 9,
+        "crazy_score": 7
+      },
+      {
+        "text": "Takeout and delivery only",
+        "vibe_score": 7,
+        "crazy_score": 4
+      },
+      { "text": "Experimental recipes", "vibe_score": 8, "crazy_score": 8 },
+      { "text": "Cereal for all meals", "vibe_score": 5, "crazy_score": 6 }
+    ]
+  },
+  {
+    "question": "What's your weekend fitness routine?",
+    "options": [
+      { "text": "Marathon training", "vibe_score": 8, "crazy_score": 7 },
+      {
+        "text": "Yoga and light stretching",
+        "vibe_score": 9,
+        "crazy_score": 4
+      },
+      { "text": "Walking the dog counts", "vibe_score": 7, "crazy_score": 3 },
+      { "text": "Extreme sports only", "vibe_score": 7, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "How do you handle weekend chores?",
+    "options": [
+      { "text": "Scheduled system", "vibe_score": 7, "crazy_score": 4 },
+      {
+        "text": "Panic clean before visitors",
+        "vibe_score": 6,
+        "crazy_score": 7
+      },
+      {
+        "text": "Delegate to roommates/family",
+        "vibe_score": 7,
+        "crazy_score": 6
+      },
+      { "text": "Let chaos reign", "vibe_score": 5, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "What's your weekend social strategy?",
+    "options": [
+      {
+        "text": "Planned events weeks ahead",
+        "vibe_score": 8,
+        "crazy_score": 5
+      },
+      {
+        "text": "Spontaneous last-minute plans",
+        "vibe_score": 7,
+        "crazy_score": 8
+      },
+      { "text": "Home alone recharging", "vibe_score": 7, "crazy_score": 4 },
+      {
+        "text": "Say yes to everything, sleep never",
+        "vibe_score": 6,
+        "crazy_score": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your weekend splurge?",
+    "options": [
+      { "text": "Fancy restaurant meal", "vibe_score": 9, "crazy_score": 6 },
+      { "text": "New gadget or toy", "vibe_score": 8, "crazy_score": 7 },
+      { "text": "Experience or adventure", "vibe_score": 9, "crazy_score": 8 },
+      {
+        "text": "Saving money is my splurge",
+        "vibe_score": 6,
+        "crazy_score": 3
+      }
+    ]
+  },
+  {
+    "question": "How do you end your weekend?",
+    "options": [
+      {
+        "text": "Early bedtime, well-prepared",
+        "vibe_score": 8,
+        "crazy_score": 3
+      },
+      {
+        "text": "Sunday night existential crisis",
+        "vibe_score": 5,
+        "crazy_score": 6
+      },
+      {
+        "text": "One more outing, sleep deprived",
+        "vibe_score": 6,
+        "crazy_score": 8
+      },
+      { "text": "Plan next weekend already", "vibe_score": 7, "crazy_score": 5 }
+    ]
+  }
+]

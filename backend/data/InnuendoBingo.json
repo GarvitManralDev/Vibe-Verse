@@ -1,0 +1,144 @@
+[
+  {
+    "question": "What do you mean when you say, 'I’m feeling a bit stuffed'?",
+    "options": [
+      { "text": "Just ate a lot", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "Feeling overwhelmed", "vibe_score": 7, "crazy_score": 5 },
+      {
+        "text": "Caught a cold or blocked nose",
+        "vibe_score": 6,
+        "crazy_score": 6
+      },
+      { "text": "Something naughty", "vibe_score": 5, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "When someone says, 'Let’s get down to business,' what could it mean?",
+    "options": [
+      { "text": "Start working seriously", "vibe_score": 9, "crazy_score": 3 },
+      {
+        "text": "Begin a secretive conversation",
+        "vibe_score": 7,
+        "crazy_score": 6
+      },
+      { "text": "Something suggestive", "vibe_score": 6, "crazy_score": 8 },
+      { "text": "Going somewhere private", "vibe_score": 5, "crazy_score": 7 }
+    ]
+  },
+  {
+    "question": "If someone says, 'I need to blow off some steam,' what are they likely implying?",
+    "options": [
+      { "text": "Release stress", "vibe_score": 9, "crazy_score": 3 },
+      { "text": "A flirtatious hint", "vibe_score": 6, "crazy_score": 7 },
+      { "text": "Taking a break outdoors", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "Something risky", "vibe_score": 5, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "What could 'Let’s hit the sack' mean beyond going to sleep?",
+    "options": [
+      { "text": "Go to bed", "vibe_score": 9, "crazy_score": 2 },
+      { "text": "Have an intimate moment", "vibe_score": 6, "crazy_score": 8 },
+      {
+        "text": "End the conversation abruptly",
+        "vibe_score": 5,
+        "crazy_score": 6
+      },
+      { "text": "Leave the place quickly", "vibe_score": 7, "crazy_score": 4 }
+    ]
+  },
+  {
+    "question": "When someone says, 'That really made me hot,' what could they be hinting at?",
+    "options": [
+      { "text": "Feeling angry", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "Feeling physically warm", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "Attraction or desire", "vibe_score": 6, "crazy_score": 8 },
+      { "text": "Embarrassed or flustered", "vibe_score": 5, "crazy_score": 6 }
+    ]
+  },
+  {
+    "question": "What might someone mean by saying, 'I’m all tied up right now'?",
+    "options": [
+      { "text": "Busy with work", "vibe_score": 9, "crazy_score": 3 },
+      {
+        "text": "In a complicated relationship",
+        "vibe_score": 6,
+        "crazy_score": 7
+      },
+      { "text": "Physically restrained", "vibe_score": 5, "crazy_score": 8 },
+      { "text": "Feeling stressed", "vibe_score": 7, "crazy_score": 4 }
+    ]
+  },
+  {
+    "question": "If someone says, 'I’m looking for a quickie,' what could they mean?",
+    "options": [
+      { "text": "Want a fast task done", "vibe_score": 6, "crazy_score": 5 },
+      {
+        "text": "Searching for a quick meal",
+        "vibe_score": 7,
+        "crazy_score": 4
+      },
+      {
+        "text": "Referring to a brief sexual encounter",
+        "vibe_score": 5,
+        "crazy_score": 9
+      },
+      {
+        "text": "Trying to rush an appointment",
+        "vibe_score": 8,
+        "crazy_score": 3
+      }
+    ]
+  },
+  {
+    "question": "What’s the double meaning behind, 'I can’t handle the size'?",
+    "options": [
+      { "text": "The object is too big", "vibe_score": 8, "crazy_score": 4 },
+      {
+        "text": "Feeling overwhelmed emotionally",
+        "vibe_score": 7,
+        "crazy_score": 5
+      },
+      {
+        "text": "Referring to something suggestive",
+        "vibe_score": 6,
+        "crazy_score": 8
+      },
+      {
+        "text": "Literal physical limitation",
+        "vibe_score": 5,
+        "crazy_score": 7
+      }
+    ]
+  },
+  {
+    "question": "What could 'I’m going to pound it' mean besides intense effort?",
+    "options": [
+      { "text": "Work hard on something", "vibe_score": 9, "crazy_score": 3 },
+      {
+        "text": "Fix something aggressively",
+        "vibe_score": 7,
+        "crazy_score": 5
+      },
+      {
+        "text": "Refers to a sexual innuendo",
+        "vibe_score": 5,
+        "crazy_score": 9
+      },
+      { "text": "Beat something physically", "vibe_score": 6, "crazy_score": 6 }
+    ]
+  },
+  {
+    "question": "What’s the hidden meaning of 'Let’s spread the word'?",
+    "options": [
+      { "text": "Share information widely", "vibe_score": 9, "crazy_score": 3 },
+      { "text": "Encourage gossip", "vibe_score": 7, "crazy_score": 5 },
+      {
+        "text": "Suggest a playful innuendo",
+        "vibe_score": 6,
+        "crazy_score": 8
+      },
+      { "text": "Invite people to a party", "vibe_score": 8, "crazy_score": 4 }
+    ]
+  }
+]

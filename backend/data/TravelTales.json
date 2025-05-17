@@ -1,0 +1,172 @@
+[
+  {
+    "question": "What's your airport arrival strategy?",
+    "options": [
+      {
+        "text": "3+ hours early, fully prepared",
+        "vibe_score": 8,
+        "crazy_score": 5
+      },
+      {
+        "text": "Just in time, running to gate",
+        "vibe_score": 6,
+        "crazy_score": 8
+      },
+      {
+        "text": "Perfect timing, no rushing",
+        "vibe_score": 9,
+        "crazy_score": 6
+      },
+      {
+        "text": "Missed flights are opportunities",
+        "vibe_score": 5,
+        "crazy_score": 9
+      }
+    ]
+  },
+  {
+    "question": "What's your vacation planning style?",
+    "options": [
+      {
+        "text": "Spreadsheets and itineraries",
+        "vibe_score": 7,
+        "crazy_score": 6
+      },
+      {
+        "text": "General direction, wing it",
+        "vibe_score": 8,
+        "crazy_score": 7
+      },
+      {
+        "text": "All-inclusive, no decisions",
+        "vibe_score": 9,
+        "crazy_score": 4
+      },
+      { "text": "Dart on map day before", "vibe_score": 7, "crazy_score": 10 }
+    ]
+  },
+  {
+    "question": "What souvenir do you typically buy?",
+    "options": [
+      { "text": "Local artisan crafts", "vibe_score": 9, "crazy_score": 5 },
+      { "text": "Cheesy magnets/shirts", "vibe_score": 7, "crazy_score": 6 },
+      {
+        "text": "Food/drinks to bring home",
+        "vibe_score": 8,
+        "crazy_score": 7
+      },
+      { "text": "Nothing - memories only", "vibe_score": 7, "crazy_score": 4 }
+    ]
+  },
+  {
+    "question": "How do you handle foreign languages?",
+    "options": [
+      { "text": "Learn basics beforehand", "vibe_score": 9, "crazy_score": 6 },
+      {
+        "text": "Translation app dependency",
+        "vibe_score": 7,
+        "crazy_score": 5
+      },
+      {
+        "text": "Speak English louder, slower",
+        "vibe_score": 4,
+        "crazy_score": 7
+      },
+      { "text": "Charades and pointing", "vibe_score": 6, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "What's your accommodation preference?",
+    "options": [
+      {
+        "text": "Luxury hotel, full amenities",
+        "vibe_score": 9,
+        "crazy_score": 6
+      },
+      { "text": "Local homestay/Airbnb", "vibe_score": 8, "crazy_score": 7 },
+      {
+        "text": "Hostel dorm, meeting people",
+        "vibe_score": 7,
+        "crazy_score": 8
+      },
+      { "text": "Camping/sleeping in car", "vibe_score": 6, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "What's your in-flight routine?",
+    "options": [
+      { "text": "Sleep the entire time", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "Movies and entertainment", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "Work productivity", "vibe_score": 6, "crazy_score": 6 },
+      { "text": "Chat up everyone nearby", "vibe_score": 7, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "What's your beach activity?",
+    "options": [
+      { "text": "Reading under umbrella", "vibe_score": 8, "crazy_score": 3 },
+      {
+        "text": "Swimming and water sports",
+        "vibe_score": 9,
+        "crazy_score": 7
+      },
+      { "text": "Sand castle engineering", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "People watching, judging", "vibe_score": 6, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "How do you document your travels?",
+    "options": [
+      {
+        "text": "Professional-quality photos",
+        "vibe_score": 8,
+        "crazy_score": 6
+      },
+      { "text": "Daily journal entries", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "Social media everything", "vibe_score": 7, "crazy_score": 7 },
+      { "text": "Mental memories only", "vibe_score": 6, "crazy_score": 4 }
+    ]
+  },
+  {
+    "question": "What's your ideal vacation pace?",
+    "options": [
+      { "text": "See everything possible", "vibe_score": 7, "crazy_score": 8 },
+      {
+        "text": "One attraction daily, relaxed",
+        "vibe_score": 8,
+        "crazy_score": 5
+      },
+      {
+        "text": "No plans, go with the flow",
+        "vibe_score": 9,
+        "crazy_score": 7
+      },
+      {
+        "text": "Never leave resort property",
+        "vibe_score": 7,
+        "crazy_score": 4
+      }
+    ]
+  },
+  {
+    "question": "What's your travel splurge?",
+    "options": [
+      {
+        "text": "Michelin-star restaurants",
+        "vibe_score": 9,
+        "crazy_score": 7
+      },
+      {
+        "text": "Unique experiences/tours",
+        "vibe_score": 10,
+        "crazy_score": 8
+      },
+      {
+        "text": "Shopping for luxury items",
+        "vibe_score": 7,
+        "crazy_score": 6
+      },
+      { "text": "Flight upgrades", "vibe_score": 8, "crazy_score": 5 }
+    ]
+  }
+]

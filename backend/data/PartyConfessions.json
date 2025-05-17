@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What’s your go-to excuse for missing work after a wild party?",
+    "options": [
+      { "text": "I was sick", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "Car trouble", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "Had to help a friend", "vibe_score": 6, "crazy_score": 6 },
+      { "text": "Blackout, don’t remember", "vibe_score": 5, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "What’s the wildest thing you’ve done on a night out?",
+    "options": [
+      { "text": "Danced on a table", "vibe_score": 7, "crazy_score": 8 },
+      { "text": "Sang karaoke loudly", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Made out with a stranger", "vibe_score": 6, "crazy_score": 9 },
+      { "text": "Got kicked out of a club", "vibe_score": 5, "crazy_score": 10 }
+    ]
+  },
+  {
+    "question": "How do you handle a regrettable text sent while drunk?",
+    "options": [
+      { "text": "Apologize immediately", "vibe_score": 9, "crazy_score": 4 },
+      { "text": "Pretend it was a joke", "vibe_score": 7, "crazy_score": 6 },
+      {
+        "text": "Ignore it and hope for the best",
+        "vibe_score": 6,
+        "crazy_score": 7
+      },
+      { "text": "Blame it on autocorrect", "vibe_score": 5, "crazy_score": 8 }
+    ]
+  },
+  {
+    "question": "What’s your most embarrassing party moment?",
+    "options": [
+      { "text": "Tripped and fell", "vibe_score": 8, "crazy_score": 5 },
+      {
+        "text": "Accidentally kissed a friend",
+        "vibe_score": 7,
+        "crazy_score": 7
+      },
+      { "text": "Passed out early", "vibe_score": 6, "crazy_score": 6 },
+      { "text": "Started a dance battle", "vibe_score": 5, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "What’s your secret strategy to survive a wild party?",
+    "options": [
+      { "text": "Pace your drinks", "vibe_score": 9, "crazy_score": 3 },
+      { "text": "Stick close to friends", "vibe_score": 8, "crazy_score": 4 },
+      {
+        "text": "Disappear when it gets crazy",
+        "vibe_score": 7,
+        "crazy_score": 5
+      },
+      { "text": "Jump into every dare", "vibe_score": 5, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "Have you ever regretted what you wore to a party?",
+    "options": [
+      { "text": "Yes, too revealing", "vibe_score": 6, "crazy_score": 7 },
+      { "text": "Yes, way too casual", "vibe_score": 7, "crazy_score": 5 },
+      { "text": "No, always confident", "vibe_score": 9, "crazy_score": 3 },
+      {
+        "text": "Yes, wore something uncomfortable",
+        "vibe_score": 8,
+        "crazy_score": 4
+      }
+    ]
+  },
+  {
+    "question": "What’s the worst hangover cure you’ve tried?",
+    "options": [
+      { "text": "Coffee and more alcohol", "vibe_score": 7, "crazy_score": 8 },
+      { "text": "Sleeping it off", "vibe_score": 9, "crazy_score": 3 },
+      { "text": "Eating greasy food", "vibe_score": 8, "crazy_score": 5 },
+      { "text": "Drinking pickle juice", "vibe_score": 6, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "What’s your go-to dance move when the party heats up?",
+    "options": [
+      { "text": "The classic two-step", "vibe_score": 8, "crazy_score": 4 },
+      { "text": "Freestyle wild moves", "vibe_score": 7, "crazy_score": 7 },
+      { "text": "Shy side sway", "vibe_score": 6, "crazy_score": 5 },
+      { "text": "Jumping like crazy", "vibe_score": 5, "crazy_score": 9 }
+    ]
+  },
+  {
+    "question": "What’s the craziest dare you accepted at a party?",
+    "options": [
+      { "text": "Sing loudly in public", "vibe_score": 7, "crazy_score": 7 },
+      { "text": "Eat something weird", "vibe_score": 6, "crazy_score": 8 },
+      { "text": "Flash someone briefly", "vibe_score": 5, "crazy_score": 10 },
+      {
+        "text": "Jump into a pool with clothes",
+        "vibe_score": 8,
+        "crazy_score": 6
+      }
+    ]
+  },
+  {
+    "question": "What’s your favorite party confession to spill?",
+    "options": [
+      { "text": "That secret crush", "vibe_score": 9, "crazy_score": 5 },
+      { "text": "Embarrassing moment", "vibe_score": 8, "crazy_score": 6 },
+      { "text": "Wildest mistake", "vibe_score": 7, "crazy_score": 8 },
+      { "text": "Plans you regret", "vibe_score": 6, "crazy_score": 7 }
+    ]
+  }
+]
