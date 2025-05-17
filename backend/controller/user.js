@@ -228,6 +228,37 @@ const getUserById = async (req, res) => {
   }
 };
 
+const getSimilarUsers = async (req, res) => {
+  try {
+    const userId = req.user.id;
+
+    const currentUser = await User.findById(userId).select("-password");
+    if (!currentUser) {
+      return res.status(404).json({ message: "User not found" });
+    }
+
+    const { contestType, vibescore, craziness } = currentUser;
+    const range = 1;
+
+    const users = await User.find({
+      _id: { $ne: userId },
+      $or: [
+        { contestType },
+        { vibescore: { $gte: vibescore - range, $lte: vibescore + range } },
+        { craziness: { $gte: craziness - range, $lte: craziness + range } },
+      ],
+    }).select("-password");
+
+    if (!users.length) {
+      return res.status(404).json({ message: "No similar users found" });
+    }
+
+    res.status(200).json({ users });
+  } catch (error) {
+    res.status(500).json({ message: "Server error", error: error.message });
+  }
+};
+
 module.exports = {
   createUser,
   checkUser,
@@ -236,4 +267,5 @@ module.exports = {
   updateUserScores,
   getTopVibers,
   getUserById,
+  getSimilarUsers,
 };

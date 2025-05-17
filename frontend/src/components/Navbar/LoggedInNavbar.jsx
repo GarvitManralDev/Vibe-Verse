@@ -9,8 +9,15 @@ function LoggedInNavbar() {
   };
   return (
     <nav className="bg-indigo-950 text-white py-4 px-6 flex justify-between items-center shadow-lg">
-      <div className="text-xl font-bold flex items-center">VibeVerse</div>
-      <div className="flex gap-6">
+      <div
+        className="text-xl font-bold flex items-center cursor-pointer"
+        onClick={() => {
+          navigate("/home");
+        }}
+      >
+        VibeVerse
+      </div>
+      <div className="flex gap-6 font-bold">
         <a
           href="#"
           className="hover:text-yellow-300"
@@ -20,8 +27,23 @@ function LoggedInNavbar() {
         >
           Home
         </a>
-        <a href="#" className="hover:text-yellow-300">
+        <a
+          href="#"
+          className="hover:text-yellow-300"
+          onClick={() => {
+            navigate("/contests");
+          }}
+        >
           Contests
+        </a>
+        <a
+          href="#"
+          className="hover:text-yellow-300"
+          onClick={() => {
+            navigate("/friends");
+          }}
+        >
+          Social
         </a>
         <a
           href="#"

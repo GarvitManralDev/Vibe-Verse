@@ -8,6 +8,7 @@ const {
   updateUserScores,
   getTopVibers,
   getUserById,
+  getSimilarUsers,
 } = require("../controller/user");
 const { authenticateToken } = require("../utils/user");
 
@@ -17,5 +18,7 @@ router.get("/", authenticateToken, getUser);
 router.put("/update-profile", authenticateToken, updateUserProfile);
 router.put("/scores", authenticateToken, updateUserScores);
 router.get("/top-vibers", getTopVibers);
+
+router.get("/friends", authenticateToken, getSimilarUsers);
 router.get("/:id", getUserById);
 module.exports = router;

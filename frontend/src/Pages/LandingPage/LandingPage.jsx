@@ -120,10 +120,10 @@ export default function LandingPage() {
 
             <div className="mt-8 flex justify-center">
               <button
-                className="bg-gradient-to-r from-pink-500 to-yellow-500 text-white px-6 py-3 rounded-full font-bold hover:scale-105 transition-transform duration-300"
-                onClick={() => navigate("/learn-more")}
+                className="bg-gradient-to-r from-pink-500 to-yellow-500 cursor-pointer text-white px-6 py-3 rounded-full font-bold hover:scale-105 transition-transform duration-300"
+                onClick={() => navigate("/login")}
               >
-                Learn How It Works
+                Start Now!!
               </button>
             </div>
           </div>
