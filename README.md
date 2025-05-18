@@ -1,6 +1,7 @@
 # Vibe Verse Documentation
 
-![image.png](attachment:9af6d498-b808-42a2-8757-1d67c4150ae3:image.png)
+![image](https://github.com/user-attachments/assets/9487a63b-623a-4502-838e-66398dd46b86)
+
 
 ### **What is Vibe Verse?**
 
@@ -88,27 +89,29 @@ You’re considered similar even if you match **just one** of these factors — 
     
     Track top-performing users across all quiz categories. The leaderboard highlights high scorers, encouraging friendly competition and repeat engagement.
     
-    ![image.png](attachment:124300f8-ba99-4d90-a701-9d4e31b70d6a:image.png)
+    ![image](https://github.com/user-attachments/assets/2105d3d7-46f8-49ea-b00b-ba55dc03f32e)
+
     
 2. **Contests**
     
     Participate in themed quiz contests categorized under *Regular* and *Edgy (18+)*. Each category features curated questions, difficulty tags, and a ranked competition format.
     
-    ![image.png](attachment:280be61b-703b-46eb-ba82-6d02ad3ff006:image.png)
-    
-    ![image.png](attachment:35de1a98-fd08-4ef6-8606-e51ee71ec983:image.png)
+   ![image](https://github.com/user-attachments/assets/577f405f-3892-4c45-93de-37131a134fb4)
+
     
 3. **Meeting New People (View Profiles)**
     
     Explore profiles of other users who’ve participated in quizzes. Get a glimpse of their vibe type, scores, and quiz themes— helping users connect over shared interests.
     
-    ![image.png](attachment:153d3372-31c6-4674-90ad-9991b4606178:image.png)
+   ![image](https://github.com/user-attachments/assets/7725f8bd-cc0b-44ed-8e22-e09bf823f110)
+
     
 4. **Change Profile**
     
     Users can personalize their profile adding a personal touch to their quiz journey and helps others recognize them.
     
-    ![image.png](attachment:1a2a6f1c-bd6d-4042-8719-a169922fe20f:image.png)
+   ![image](https://github.com/user-attachments/assets/fe6bdf66-498c-4897-8d93-d5dc07247024)
+
     
 
 ---
