@@ -6,6 +6,7 @@ dotenv.config();
 const JWT_SECRET = process.env.SECRET;
 
 const createUser = async (req, res) => {
+  console.log("Signup here");
   const { username, password } = req.body;
 
   if (!username || !password) {
@@ -28,6 +29,7 @@ const createUser = async (req, res) => {
 };
 
 const checkUser = async (req, res) => {
+  console.log("Login here");
   const { username, password } = req.body;
 
   if (!username || !password) {
