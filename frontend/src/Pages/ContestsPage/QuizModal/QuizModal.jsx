@@ -153,7 +153,7 @@ export default function QuizModal({ category, onClose, onComplete }) {
                     : "bg-gray-800 border-2 border-gray-700 hover:border-gray-600"
                 }`}
               >
-                <span className="text-gray-200">{opt.text}</span>
+                <span className="text-gray-200">{opt.text || opt.option}</span>
               </button>
             ))}
           </div>

@@ -3,6 +3,7 @@ import { ChevronLeft, ChevronRight, Star } from "lucide-react";
 import QuizModal from "./QuizModal/QuizModal";
 import axios from "axios";
 import LoggedInNavbar from "../../components/Navbar/LoggedInNavbar";
+import { getCategoryColors, tabColors } from "../../../utils/categoryColors";
 
 export default function ContestsPage() {
   const [activeTab, setActiveTab] = useState("regular");
@@ -11,6 +12,7 @@ export default function ContestsPage() {
   const [toastMessage, setToastMessage] = useState(null);
   const [regularCategories, setRegularCategories] = useState([]);
   const [edgyCategories, setEdgyCategories] = useState([]);
+
   const startQuiz = () => {
     setShowQuiz(true);
   };
@@ -58,7 +60,7 @@ export default function ContestsPage() {
           body: JSON.stringify({
             newVibeScore: scores.vibeScore,
             newCrazyScore: scores.crazyScore,
-            categoryName: selectedCategory.name, // ⬅️ send the category name
+            categoryName: selectedCategory.name,
           }),
         }
       );
@@ -86,17 +88,49 @@ export default function ContestsPage() {
     }
   };
 
+  // Process and normalize player data
+  const normalizePlayerData = (categories) => {
+    return categories.map((category) => {
+      // Ensure topPlayers exists and has a consistent structure
+      let normalizedTopPlayers = [];
+
+      if (category.topPlayers && category.topPlayers.length > 0) {
+        normalizedTopPlayers = category.topPlayers.map((player) => {
+          return {
+            userId: player.userId || player._id,
+            username: player.username || player.name || "Anonymous Player",
+            avatar: player.avatar || "",
+            vibeScore: player.vibeScore || player.score || 0,
+          };
+        });
+      }
+
+      return {
+        ...category,
+        topPlayers: normalizedTopPlayers,
+        // Get color info from our centralized system
+        colorInfo: getCategoryColors(category.id),
+      };
+    });
+  };
+
   const getAllCategories = async () => {
     try {
       const response = await axios.get(
         `${import.meta.env.VITE_BACKEND_URL}/api/category`
       );
-      setRegularCategories(response.data.regular);
-      setEdgyCategories(response.data.edgy);
+
+      // Process and normalize data
+      const processedRegular = normalizePlayerData(response.data.regular);
+      const processedEdgy = normalizePlayerData(response.data.edgy);
+
+      setRegularCategories(processedRegular);
+      setEdgyCategories(processedEdgy);
     } catch (error) {
       console.error("Error fetching categories:", error);
     }
   };
+
   useEffect(() => {
     getAllCategories();
   }, []);
@@ -143,8 +177,8 @@ export default function ContestsPage() {
                 onClick={() => setActiveTab("regular")}
                 className={`px-6 py-2.5 rounded-full text-sm font-medium transition-all ${
                   activeTab === "regular"
-                    ? "bg-gradient-to-r from-blue-600 to-cyan-600 text-white shadow-lg"
-                    : "text-gray-300 hover:text-white"
+                    ? `bg-gradient-to-r ${tabColors.regular.active} text-white shadow-lg`
+                    : `text-gray-300 ${tabColors.regular.hover}`
                 }`}
               >
                 Regular
@@ -153,8 +187,8 @@ export default function ContestsPage() {
                 onClick={() => setActiveTab("edgy")}
                 className={`px-6 py-2.5 rounded-full text-sm font-medium transition-all ${
                   activeTab === "edgy"
-                    ? "bg-gradient-to-r from-rose-600 to-red-600 text-white shadow-lg"
-                    : "text-gray-300 hover:text-white"
+                    ? `bg-gradient-to-r ${tabColors.edgy.active} text-white shadow-lg`
+                    : `text-gray-300 ${tabColors.edgy.hover}`
                 }`}
               >
                 Edgy 18+
@@ -165,7 +199,9 @@ export default function ContestsPage() {
           {/* Featured category - only show if there's a selected category */}
           {selectedCategory && (
             <div className="mb-12 rounded-2xl overflow-hidden bg-gray-800/60 backdrop-blur-sm shadow-xl">
-              <div className={`bg-gradient-to-r ${selectedCategory.color} p-6`}>
+              <div
+                className={`bg-gradient-to-r ${selectedCategory.colorInfo.gradient} p-6`}
+              >
                 <button
                   onClick={() => setSelectedCategory(null)}
                   className="text-white mb-4 flex items-center opacity-80 hover:opacity-100 transition-all"
@@ -177,7 +213,7 @@ export default function ContestsPage() {
                   <div className="flex items-center mb-4 md:mb-0">
                     <div className="ml-4">
                       <div
-                        className={`text-xs font-semibold uppercase tracking-wider ${selectedCategory.textColor}`}
+                        className={`text-xs font-semibold uppercase tracking-wider ${selectedCategory.colorInfo.textColor}`}
                       >
                         {selectedCategory.age
                           ? `${selectedCategory.age} Category`
@@ -196,7 +232,7 @@ export default function ContestsPage() {
                         <span className="text-gray-400 text-sm">
                           Played{" "}
                           {(selectedCategory.playCount ?? 0).toLocaleString()}{" "}
-                          times times
+                          times
                         </span>
                       </div>
                     </div>
@@ -237,12 +273,12 @@ export default function ContestsPage() {
                         >
                           {i + 1}
                         </div>
-                        <div className="font-medium">{player.name}</div>
+                        <div className="font-medium">{player.username}</div>
                       </div>
                       <div className="flex justify-between items-center">
                         <div className="text-sm text-gray-400">Score</div>
                         <div className="font-bold text-lg">
-                          {(player.score ?? 0).toLocaleString()}
+                          {(player.vibeScore ?? 0).toLocaleString()}
                         </div>
                       </div>
                     </div>
@@ -260,7 +296,9 @@ export default function ContestsPage() {
                 className="bg-gray-800/60 backdrop-blur-sm border border-gray-700/50 rounded-xl overflow-hidden hover:shadow-xl hover:shadow-pink-900/20 transition-all cursor-pointer transform hover:-translate-y-1"
                 onClick={() => setSelectedCategory(category)}
               >
-                <div className={`bg-gradient-to-r ${category.color} p-5`}>
+                <div
+                  className={`bg-gradient-to-r ${category.colorInfo.gradient} p-5`}
+                >
                   <div className="flex justify-between items-start mb-3">
                     {category.age && (
                       <span className="bg-black/30 text-white text-xs px-2.5 py-1 rounded-full font-medium">
@@ -271,7 +309,7 @@ export default function ContestsPage() {
                   <h3 className="text-xl font-bold text-white">
                     {category.name}
                   </h3>
-                  <p className={`text-sm ${category.textColor}`}>
+                  <p className={`text-sm ${category.colorInfo.textColor}`}>
                     {category.description}
                   </p>
                 </div>
@@ -293,23 +331,37 @@ export default function ContestsPage() {
 
                   <div className="mt-4 flex justify-between items-center">
                     <div className="flex -space-x-2">
-                      {Array(3)
-                        .fill(0)
-                        .map((_, i) => (
+                      {category.topPlayers &&
+                        category.topPlayers.slice(0, 3).map((player, i) => (
                           <div
                             key={i}
                             className="w-7 h-7 rounded-full bg-gradient-to-br from-gray-500 to-gray-700 border border-gray-800 flex items-center justify-center text-xs font-bold"
                           >
-                            {i + 1}
+                            {player.avatar || i + 1}
                           </div>
                         ))}
+                      {/* Fallback if no top players */}
+                      {(!category.topPlayers ||
+                        category.topPlayers.length === 0) &&
+                        Array(3)
+                          .fill(0)
+                          .map((_, i) => (
+                            <div
+                              key={i}
+                              className="w-7 h-7 rounded-full bg-gradient-to-br from-gray-500 to-gray-700 border border-gray-800 flex items-center justify-center text-xs font-bold"
+                            >
+                              {i + 1}
+                            </div>
+                          ))}
                     </div>
 
                     <button
                       className="text-xs bg-gray-700 hover:bg-gray-600 px-3 py-1.5 rounded-full flex items-center cursor-pointer"
-                      onClick={() =>
-                        window.scrollTo({ top: 0, behavior: "smooth" })
-                      }
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        setSelectedCategory(category);
+                        window.scrollTo({ top: 0, behavior: "smooth" });
+                      }}
                     >
                       Details <ChevronRight className="w-3 h-3 ml-1" />
                     </button>

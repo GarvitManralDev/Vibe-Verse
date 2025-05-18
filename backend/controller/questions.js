@@ -3,7 +3,6 @@ const path = require("path");
 
 const getRandomQuestions = (req, res) => {
   const category = req.params.category;
-
   // Build the file path based on category
   const filePath = path.join(process.cwd(), "data", `${category}.json`);
 
